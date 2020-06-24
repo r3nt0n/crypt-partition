@@ -4,4 +4,4 @@
 ![[Date](https://github.com/R3nt0n)](http://img.shields.io/badge/date-2017-yellow.svg)
 
 # crypt-partition
-Partition encrypt tool via shellscript and cryptsetup
+Partition encrypt tool via shellscript and cryptsetup. TO configure it, just set the three first variables.
